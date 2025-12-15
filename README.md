@@ -1,6 +1,6 @@
 # Titus Green-@TitusGreen
 
-👋 Hey! I'm Titus, and I'm a college student studying cybersecurity at Southeast Missouri State University. I have information technology experience as well as knowledge of cryptography, web application testing, and penetration testing.
+👋 Hey! I'm Titus, and I'm a college graduate with a B.S. in Cybersecurity from Southeast Missouri State University. I have information technology experience as well as knowledge of cryptography, web application testing, and penetration testing.
 
 ### AWARDS AND ACHIEVEMENTS
 A list of awards and accomplishments that I have received over the course of my career.
